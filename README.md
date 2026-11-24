@@ -2,7 +2,7 @@
 
  Estudiante de Desarrollo de Software
  Apasionado por el código libre (Open Source)
- 23 años | 📍 El Salvador
+ 23 años |  El Salvador
  Actualmente aprendiendo: [javaScript, Firebase, Git, Python, Html5 etc....]
  Abierto a colaborar en proyectos open source
  Contáctame: adolfo57chavez8@gmail.com
